@@ -2,7 +2,7 @@
 ## Hi, Farhan here! 👋
 
 I'm a full-stack engineer with endless curiosity,<br>
-working on a wide range of applications, including Web3.
+working on a wide range of applications, Web3 Included
 
 ### 💻 My Tech Stack: 
 
